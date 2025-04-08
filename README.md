@@ -35,9 +35,9 @@ This repository contains implementations of fundamental **data structures** in t
    ```bash
    ./output
    ```
-*> Replace `filename.c` with the name of the file you want to run (e.g., `stack_using_array.c`).
+> Replace `filename.c` with the name of the file you want to run (e.g., `stack_using_array.c`).
 
----**
+---
 
 ## 📬 Contact
 
